@@ -1,0 +1,140 @@
+/*
+Theme Name: First them
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: first-them
+*/
+
+
+.site-logo a {
+  color: #333;
+}
+.stock-cotact-box {
+  display: inline-block;
+  position: relative;
+  padding-left: 54px;
+  color: #666;
+  margin-right: 18px;
+  font-size: 14px;
+}
+.header-right-content {
+  position: relative;
+  padding-right: 60px;
+}
+.stock-cart, .stock-cotact-box i.fa {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 53px;
+  width: 53px;
+  border: 1px solid #e0e9ee;
+  font-size: 18px;
+  line-height: 46px;
+  text-align: center;
+  border-radius: 50%;
+}
+.stock-cart-count {
+}
+.stock-cart span {
+  position: absolute;
+  right: -10px;
+  top: -10px;
+  height: 30px;
+  width: 30px;
+  font-size: 14px;
+  line-height: 30px;
+  display: block;
+  background: #278cc1;
+  color: #fff;
+  border-radius: 50%;
+}
+.stock-cotact-box i.fa {
+  left: 0;
+  top: 50%;
+  margin-top: -26.5px;
+  line-height: 48px;
+}
+.stock-cotact-box h3 {
+  color: #333;
+  font-size: 20px;
+  margin: 0;
+  margin-top: 0px;
+}
+.header-area {
+  padding-top: 25px;
+}
+.mainmenu {
+  border-top: 1px solid #d9e4e9;
+
+  margin-top: 28px;
+  font-size: 17px;
+}
+.mainmenu a {
+  color: #333;
+}
+.mainmenu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.mainmenu li {
+  display: inline-block;
+  position: relative;
+}
+.mainmenu li a {
+  display: block;
+  padding: 20px;
+  padding-left: 0px;
+  padding-right: 30px;
+}
+.site-logo h2 {
+  margin: 0;
+  padding: 11px 0px;
+}
+.site-footer {
+  background: #2a2d2f;
+}
+.site-footer a {
+  color: #afb9c0;
+}
+.home.blog.logged-in.admin-bar.hfeed.wpb-js-composer.js-comp-ver-5\.1.vc_responsive.customize-support {
+}
+body {
+  font-size: 15px;
+  line-height: 1.7;
+}
+.site-footer h4.widget-title {
+  color: #fff;
+}
+.site-footer ul {
+  margin: 0;
+  padding: 0;
+  line-height: 2.2;
+  list-style: none;
+}
+.stock-footer-bottom {
+  border-top: 1px solid #383d40;
+  padding: 20px 0;
+}
+.social-icons {
+  text-align: right;
+  font-size: 16px;
+}
+.social-icons a {
+  color: #fff;
+  padding-left: 16px;
+}
+.stock-footer-bottom ul {
+  text-align: center;
+}
+.stock-footer-bottom li {
+  display: inline-block;
+}
+.site-footer .widget {
+  padding: 90px 0px;
+}
