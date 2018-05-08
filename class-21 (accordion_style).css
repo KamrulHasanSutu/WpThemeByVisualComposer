@@ -1,0 +1,97 @@
+// stock-toolkit.css
+//-----------------------------
+
+.vc_tta-panel{
+	border-bottom: 1px solid #f6f8f9;
+	margin-bottom:15px;
+	padding-bottom:0;
+}
+
+.wpb js-composer div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-body{
+	background:rgba(0, 0, 0, 0) none repeat scroll 0 0 ;
+	border: medium none;
+	padding:0 0 15px;
+}
+.wpb js-composer div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel.vc_active .vc_tta-panel-heading{
+	background:rgba(0, 0, 0, 0) none repeat scroll 0 0 ;
+	border: medium none;
+}
+.wpb js-composer div.vc_tta,vc_ttta-acordion .vc_tta-controls-icon-position-left.vc_tta-panel-title > a {
+	padding:0 0 0 20px;
+}
+.wpb js-composer div.vc_tta.vc_ttta-acordion .vc_tta-controls-icon-position-left.vc_tta-controls-icon{
+	left: 0;
+}
+.wpb js-composer div.vc_tta.vc_general .vc_tta-panel-title{
+	margin:20px 0;
+}
+.wpb js-composer div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading{
+	background:rgba(0, 0, 0, 0) none repeat scroll 0 0 ;
+	border: medium none;
+}
+
+.wpb js-composer div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:focus, .wpb js-composer div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover{
+	background:rgba(0, 0, 0, 0) none repeat scroll 0 0 ;
+	border: medium none;
+}
+
+.wpb js-composer .vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:focus, .wpb js-composer div.vc_tta-color-grey.vc_tta-style-classic .vc_tta-panel .vc_tta-panel-heading:hover{
+	background:rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+	border: medium none;
+}
+
+
+h4.vc_tta-panel-title{
+	font-size:20px;
+}
+
+.list-box ul{
+	color:#288cc1;
+	font-size:18px;
+	line-height:35px;
+	list-style:outside none none;
+	margin:0;
+	padding:0;
+}
+
+.list-box li:before {font-family:fontAwesome;content:"\f00c"}
+.list-box li{
+	margin-bottom:10px;
+	padding:0 0 0 40px;
+	position:relative;
+}
+
+.list-box li::before{
+	border:1px solid #e4ecf0;
+	border-radius:50%;
+	display:inline-block;
+	font-size:13px;
+	height:30px;
+	left:0;
+	line-height:27px;
+	position:absolute;
+	text-align:center;
+	top:4px;
+	width:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
